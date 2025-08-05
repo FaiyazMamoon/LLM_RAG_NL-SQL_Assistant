@@ -1,0 +1,10 @@
+Top 5 clients with most incidents and their count.
+List all the different link_name_nttn and their incident counts.
+Find all the incident that happened in july 2024.
+Which 5 clients had the most VVIP priority and how many?
+What is the average clear time taken to resolve an incident?
+Which districts have the most incidents and how many? sort them in descending order
+Which 10 clients face the most repeated issues?
+Are there any unresolved incidents?
+Find incidents where escalation time was more than 10 mins after the event.
+which 5 clients had the most incident duration and how long?
