@@ -87,7 +87,7 @@ def query_collection(prompt: str, n_results: int = 10):
     return results
 
 
-OLLAMA_URL = "http://192.168.5.201:11434/api/generate"  # Ollama's API URL
+OLLAMA_URL = "http://localhost:11434/api/generate"  # Ollama's API URL
 
 def call_llm(context: str, prompt: str):
     payload = {
